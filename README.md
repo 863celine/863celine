@@ -15,8 +15,8 @@
   <img
     src="https://64.media.tumblr.com/1cc5c7b89d45dbce97425006d9b1861a/70e8423357bbef87-14/s2048x3072/828f317cafee928b1ac2b14b1f6a510949d3199b.pnj"
     alt="horizontal image"
-    width="500"
-    height="700"
+    width="300"
+    height="500"
     style="border: none; object-fit: cover;"
   />
 </div>
