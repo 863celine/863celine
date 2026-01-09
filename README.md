@@ -15,5 +15,3 @@ style="border: none;"
 </div>
 
 <br />
-
-<!-- Outras seções do seu README podem vir abaixo desta linha -->
